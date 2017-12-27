@@ -4,8 +4,8 @@
 
 ------
 ## 1.ติดตั้ง python
-[ติดตั้ง](https://www.python.org/downloads/windows/) โดยจะใช้เป็น **python 3.6 และต้องมีคำว่า executable อยู่ด้วย**
+> [ติดตั้ง](https://www.python.org/downloads/windows/) โดยจะใช้เป็น 'python 3.6 และต้องมีคำว่า executable อยู่ด้วย'
 
 ------
 ## 2.การติดตั้ง Editor
-[ติดตั้ง](https://www.jetbrains.com/pycharm/download/#section=windows) โดยจะใช้เป็น **Community** ในการเขียนโปรแกรม
+> [ติดตั้ง](https://www.jetbrains.com/pycharm/download/#section=windows) โดยจะใช้เป็น 'Community' ในการเขียนโปรแกรม
